@@ -1,22 +1,15 @@
 package com.test.automation.uiAutomation.uiActions;
 
 import org.apache.log4j.Logger;
-import org.junit.Assert;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import org.testng.Reporter;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class HomePage {
 
-	public final String mens = "Mens";
-	public final String womens = "Womens";
-	public final String blog = "Blog";
-	
-	public final String jackets = "Jackets";
-	public final String pants = "Pants";
 	
 	public static final Logger log = Logger.getLogger(HomePage.class.getName());
 	
@@ -42,17 +35,17 @@ public class HomePage {
 	@FindBy(id="ctl00_ctrlHeader_LinkButtonSignUp")
 	WebElement signUpLink;
 	
-	@FindBy(id="ctl00_cph1_ctrlCustomerRegister_CreateUserForm_CreateUserStepContainer_txtFirstName")
-	WebElement firstName;
+	@FindBy(id="ctl00_ctrlHeader_txtSearchTerms")
+	WebElement searchInput;
 	
-	@FindBy(id="ctl00_cph1_ctrlCustomerRegister_CreateUserForm_CreateUserStepContainer_txtLastName")
-	WebElement lastName;
+	@FindBy(id="ctl00_ctrlHeader_btnSearch_Click")
+	WebElement searchButton;
 	
-	@FindBy(id="ctl00_cph1_ctrlCustomerRegister_CreateUserForm_CreateUserStepContainer_UserName")
-	WebElement email;
+	@FindBy(id="ctl00_cph1_ctrlSearch_dlCatalog_ctl00_ctrlProductBox_btnAddToCart")
+	WebElement addToCart;
 	
-	@FindBy(id="ctl00_cph1_ctrlCustomerRegister_CreateUserForm_CreateUserStepContainer_tbConfirmEmail")
-	WebElement confirmEmail;
+	@FindBy(id="ctl00_cph1_OrderSummaryControl_btnCheckout")
+	WebElement checkoutButton;
 	
 	
 	@FindBy(id="CreatePassword")
@@ -61,48 +54,46 @@ public class HomePage {
 	@FindBy(css="input.btn")
 	WebElement createAccount;
 	
-	@FindBy(xpath="//*[@id='shopify-section-header']/div/div[2]/span")
-	WebElement registrationMessage;
-	
-	@FindBy(xpath="//*[@id='customer_login_link']")
-	WebElement loginLink;
-	
-	@FindBy(id="CustomerEmail")
-	WebElement loginEmail;
-	
-	@FindBy(xpath=".//*[@id='CustomerPassword']")
-	WebElement password;
-	
-	@FindBy(xpath=".//*[@id='customer_login']/p[1]/input")
-	WebElement clickOnSignIn;
-	
-	@FindBy(xpath="//*[@id='customer_logout_link']")
-	WebElement logout;
 	
 	public HomePage(WebDriver driver){
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
 	}
 	
-
 	
 	public void loginToApplication(String emailAddress, String password){
 		signIn.click();
-	//	log("cliked on sign in and object is:-"+signIn.toString());
+		log.info("cliked on sign in and object is:-"+signIn.toString());
 		loginEmailAddress.sendKeys(emailAddress);
-	//	log("entered email address:-"+emailAddress+" and object is "+loginEmailAddress.toString());
+		log.info("entered email address:-"+emailAddress+" and object is "+loginEmailAddress.toString());
 		loginPassword.sendKeys(password);
-	//	log("entered password:-"+password+" and object is "+loginPassword.toString());
+		log.info("entered password:-"+password+" and object is "+loginPassword.toString());
 		submitButton.click();
-	//	log("clicked on sublit butto and object is:-"+submitButton.toString());
+	    log.info("clicked on sublit butto and object is:-"+submitButton.toString());
 	}
 	
 public String getInvalidLoginText(){
-	//	log("erorr message is:-"+authenticationSuccess.getText());
+		log.info("message is:-"+authenticationSuccess.getText());
 		return authenticationSuccess.getText();
 	}
+
+	public void addProductToCart(String productName) {
+	searchInput.sendKeys(productName);
+	log.info("clicked on search Input "+productName+" and object is:-"+searchInput.toString());
+	searchButton.click();
+	log.info("clicked on search button and object is:-"+searchButton.toString());
+	addToCart.click();
+	log.info("clicked on add to card button and object is:-"+addToCart.toString());
+}
+
+	public boolean getCheckoutButton(){
+		log.info("message is:-"+checkoutButton.isDisplayed());
+	return checkoutButton.isDisplayed();
+	}
+	
+
 /* 
-	public void registorUser(String firstName, String lastName, String emailAddress, String password){
+	public void registorUser(String product, String lastName, String emailAddress, String password){
 		signUpLink.click();
 		log("clicked on sign Up link and object is:-"+signUpLink.toString());
 		

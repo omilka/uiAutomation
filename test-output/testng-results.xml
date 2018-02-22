@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="11053" started-at="2018-02-22T11:03:58Z" finished-at="2018-02-22T11:04:09Z">
+  <suite name="Default suite" duration-ms="19132" started-at="2018-02-22T22:15:23Z" finished-at="2018-02-22T22:15:42Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="11053" started-at="2018-02-22T11:03:58Z" finished-at="2018-02-22T11:04:09Z">
-      <class name="com.test.automation.uiAutomation.homePage.TC001_VerifyLoginWithInvalidCredentials">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.automation.uiAutomation.homePage.TC001_VerifyLoginWithInvalidCredentials@4c70fda8]" name="setUp" is-config="true" duration-ms="8518" started-at="2018-02-22T11:03:58Z" finished-at="2018-02-22T11:04:06Z">
+    <test name="Default test" duration-ms="19132" started-at="2018-02-22T22:15:23Z" finished-at="2018-02-22T22:15:42Z">
+      <class name="com.test.automation.uiAutomation.homePage.TC002_AddProductToCard">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.automation.uiAutomation.homePage.TC002_AddProductToCard@e25b2fe]" name="setUp" is-config="true" duration-ms="6166" started-at="2018-02-22T22:15:23Z" finished-at="2018-02-22T22:15:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="verifyLoginWithInvalidCredentials()[pri:0, instance:com.test.automation.uiAutomation.homePage.TC001_VerifyLoginWithInvalidCredentials@4c70fda8]" name="verifyLoginWithInvalidCredentials" duration-ms="2384" started-at="2018-02-22T11:04:06Z" finished-at="2018-02-22T11:04:09Z">
+        <test-method status="PASS" signature="verifyAddProductToCard()[pri:0, instance:com.test.automation.uiAutomation.homePage.TC002_AddProductToCard@e25b2fe]" name="verifyAddProductToCard" duration-ms="12844" started-at="2018-02-22T22:15:29Z" finished-at="2018-02-22T22:15:42Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyLoginWithInvalidCredentials -->
-        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.automation.uiAutomation.homePage.TC001_VerifyLoginWithInvalidCredentials@4c70fda8]" name="endTest" is-config="true" duration-ms="134" started-at="2018-02-22T11:04:09Z" finished-at="2018-02-22T11:04:09Z">
+        </test-method> <!-- verifyAddProductToCard -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.automation.uiAutomation.homePage.TC002_AddProductToCard@e25b2fe]" name="endTest" is-config="true" duration-ms="104" started-at="2018-02-22T22:15:42Z" finished-at="2018-02-22T22:15:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endTest -->
-      </class> <!-- com.test.automation.uiAutomation.homePage.TC001_VerifyLoginWithInvalidCredentials -->
+      </class> <!-- com.test.automation.uiAutomation.homePage.TC002_AddProductToCard -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

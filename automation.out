@@ -1,0 +1,80 @@
+2018-02-22 11:26:50 INFO  TC001_VerifyLoginWithInvalidCredentials:27 - ========Starting TC001_VerifyLoginWithInvalidCredentials test
+2018-02-22 11:26:51 INFO  HomePage:88 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (2c1e68a437307bf9a28f1d296ebb88fb)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-22 11:26:51 INFO  HomePage:90 - entered email address:-medyanik@gmail.com and object is [[ChromeDriver: chrome on MAC (2c1e68a437307bf9a28f1d296ebb88fb)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-22 11:26:51 INFO  HomePage:92 - entered password:-password^$ and object is [[ChromeDriver: chrome on MAC (2c1e68a437307bf9a28f1d296ebb88fb)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_Password']]
+2018-02-22 11:27:53 INFO  HomePage:94 - clicked on sublit butto and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-02-22 11:27:53 INFO  TC001_VerifyLoginWithInvalidCredentials:32 - ========End TC001_VerifyLoginWithInvalidCredentials test
+2018-02-22 11:33:29 INFO  TC001_VerifyLoginWithInvalidCredentials:27 - ========Starting TC001_VerifyLoginWithInvalidCredentials test
+2018-02-22 11:33:29 INFO  HomePage:88 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (39b13ffc118d3a2099cd707ff9b4c86a)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-22 11:33:29 INFO  HomePage:90 - entered email address:-medyanik@gmail.com and object is [[ChromeDriver: chrome on MAC (39b13ffc118d3a2099cd707ff9b4c86a)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-22 11:33:29 INFO  HomePage:92 - entered password:-password^$ and object is [[ChromeDriver: chrome on MAC (39b13ffc118d3a2099cd707ff9b4c86a)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_Password']]
+2018-02-22 11:35:51 INFO  TC001_VerifyLoginWithInvalidCredentials:27 - ========Starting TC001_VerifyLoginWithInvalidCredentials test
+2018-02-22 11:35:51 INFO  HomePage:88 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (6d8d05f5e093165b4b6c8394f44d7af6)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-22 11:35:51 INFO  HomePage:90 - entered email address:-medyanik@gmail.com and object is [[ChromeDriver: chrome on MAC (6d8d05f5e093165b4b6c8394f44d7af6)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-22 11:35:52 INFO  HomePage:92 - entered password:-password^$ and object is [[ChromeDriver: chrome on MAC (6d8d05f5e093165b4b6c8394f44d7af6)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_Password']]
+2018-02-22 11:36:53 INFO  HomePage:94 - clicked on sublit butto and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-02-22 11:36:53 INFO  HomePage:98 - message is:-WELCOME TO OUR STORE FOR GREAT SAVINGS ON TEST TOOLS AND CALIBRATION.
+2018-02-22 11:36:53 INFO  TC001_VerifyLoginWithInvalidCredentials:32 - ========End TC001_VerifyLoginWithInvalidCredentials test
+2018-02-22 11:39:04 INFO  TC001_VerifyLoginWithInvalidCredentials:27 - ========Starting TC001_VerifyLoginWithInvalidCredentials test
+2018-02-22 11:39:04 INFO  HomePage:88 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (d8870c12a0ae3c7651af808e99d21945)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-22 11:39:04 INFO  HomePage:90 - entered email address:-medyanik@gmail.com and object is [[ChromeDriver: chrome on MAC (d8870c12a0ae3c7651af808e99d21945)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-22 11:39:04 INFO  HomePage:92 - entered password:-password^$ and object is [[ChromeDriver: chrome on MAC (d8870c12a0ae3c7651af808e99d21945)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_Password']]
+2018-02-22 11:39:16 INFO  HomePage:94 - clicked on sublit butto and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-02-22 11:39:16 INFO  HomePage:98 - message is:-WELCOME TO OUR STORE FOR GREAT SAVINGS ON TEST TOOLS AND CALIBRATION.
+2018-02-22 11:39:16 INFO  TC001_VerifyLoginWithInvalidCredentials:32 - ========End TC001_VerifyLoginWithInvalidCredentials test
+2018-02-22 11:43:37 INFO  TC001_VerifyLoginWithValidCredentials:27 - ========Starting TC001_VerifyLoginWithInvalidCredentials test
+2018-02-22 11:43:37 INFO  HomePage:88 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (38f3e9c87ee4642442c79a16f4d2b38b)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-22 11:43:38 INFO  HomePage:90 - entered email address:-medyanik@gmail.com and object is [[ChromeDriver: chrome on MAC (38f3e9c87ee4642442c79a16f4d2b38b)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-22 11:43:38 INFO  HomePage:92 - entered password:-password^$ and object is [[ChromeDriver: chrome on MAC (38f3e9c87ee4642442c79a16f4d2b38b)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_Password']]
+2018-02-22 11:43:50 INFO  HomePage:94 - clicked on sublit butto and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-02-22 11:43:50 INFO  HomePage:98 - message is:-WELCOME TO OUR STORE FOR GREAT SAVINGS ON TEST TOOLS AND CALIBRATION.
+2018-02-22 11:43:50 INFO  TC001_VerifyLoginWithValidCredentials:32 - ========End TC001_VerifyLoginWithInvalidCredentials test
+2018-02-22 19:46:14 INFO  TC001_VerifyLoginWithValidCredentials:27 - ========Starting TC001_VerifyLoginWithInvalidCredentials test
+2018-02-22 19:46:14 INFO  HomePage:81 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (f1a1e35d876e58f745b8ffb65bf6dd46)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-22 19:46:15 INFO  HomePage:83 - entered email address:-medyanik@gmail.com and object is [[ChromeDriver: chrome on MAC (f1a1e35d876e58f745b8ffb65bf6dd46)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-22 19:46:15 INFO  HomePage:85 - entered password:-password^$ and object is [[ChromeDriver: chrome on MAC (f1a1e35d876e58f745b8ffb65bf6dd46)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_Password']]
+2018-02-22 19:46:16 INFO  HomePage:87 - clicked on sublit butto and object is:-[[ChromeDriver: chrome on MAC (f1a1e35d876e58f745b8ffb65bf6dd46)] -> id: ctl00_ctrlHeader_LoginForm_LoginButton]
+2018-02-22 19:55:28 INFO  TC001_VerifyLoginWithValidCredentials:27 - ========Starting TC001_VerifyLoginWithInvalidCredentials test
+2018-02-22 19:55:28 INFO  HomePage:81 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (e99dc06d628d447bfae35845b03b56b8)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-22 19:55:28 INFO  HomePage:83 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (e99dc06d628d447bfae35845b03b56b8)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-22 19:55:28 INFO  HomePage:85 - entered password:-MiniMicr0 and object is [[ChromeDriver: chrome on MAC (e99dc06d628d447bfae35845b03b56b8)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_Password']]
+2018-02-22 19:55:29 INFO  HomePage:87 - clicked on sublit butto and object is:-[[ChromeDriver: chrome on MAC (e99dc06d628d447bfae35845b03b56b8)] -> id: ctl00_ctrlHeader_LoginForm_LoginButton]
+2018-02-22 20:09:06 INFO  TC001_VerifyLoginWithValidCredentials:27 - ========Starting TC001_VerifyLoginWithInvalidCredentials test
+2018-02-22 20:09:07 INFO  HomePage:81 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (6c4495572f9f2f27cdd0eed27724faf7)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-22 20:09:07 INFO  HomePage:83 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (6c4495572f9f2f27cdd0eed27724faf7)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-22 20:09:07 INFO  HomePage:85 - entered password:-Minimicr0 and object is [[ChromeDriver: chrome on MAC (6c4495572f9f2f27cdd0eed27724faf7)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_Password']]
+2018-02-22 20:09:18 INFO  HomePage:87 - clicked on sublit butto and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-02-22 20:09:18 INFO  HomePage:91 - message is:-WELCOME TO OUR STORE FOR GREAT SAVINGS ON TEST TOOLS AND CALIBRATION.
+2018-02-22 20:09:18 INFO  TC001_VerifyLoginWithValidCredentials:32 - ========End TC001_VerifyLoginWithInvalidCredentials test
+2018-02-22 20:50:51 INFO  TC002_AddProductToCard:28 - ========Starting TC002_AddProductToCard test
+2018-02-22 20:50:51 INFO  HomePage:80 - clicked on search Input Druck DPI620G and object is:-[[ChromeDriver: chrome on MAC (4855486510b9500c4973df2165451d3c)] -> id: ctl00_ctrlHeader_txtSearchTerms]
+2018-02-22 20:50:53 INFO  HomePage:82 - clicked on search button and object is:-[[ChromeDriver: chrome on MAC (4855486510b9500c4973df2165451d3c)] -> id: ctl00_ctrlHeader_btnSearch_Click]
+2018-02-22 21:59:40 INFO  TC002_AddProductToCard:28 - ========Starting TC002_AddProductToCard test
+2018-02-22 21:59:40 INFO  HomePage:82 - clicked on search Input Druck DPI620G and object is:-[[ChromeDriver: chrome on MAC (b29a4f9b522a4fd3ce2de82b7a6c8b53)] -> id: ctl00_ctrlHeader_txtSearchTerms]
+2018-02-22 21:59:42 INFO  HomePage:84 - clicked on search button and object is:-[[ChromeDriver: chrome on MAC (b29a4f9b522a4fd3ce2de82b7a6c8b53)] -> id: ctl00_ctrlHeader_btnSearch_Click]
+2018-02-22 22:02:21 INFO  TC002_AddProductToCard:28 - ========Starting TC002_AddProductToCard test
+2018-02-22 22:05:19 INFO  TC002_AddProductToCard:28 - ========Starting TC002_AddProductToCard test
+2018-02-22 22:05:19 INFO  HomePage:82 - clicked on search Input Druck DPI620G and object is:-[[ChromeDriver: chrome on MAC (0ff0661af750aaaf3b0b795ebb9ba37a)] -> id: ctl00_ctrlHeader_txtSearchTerms]
+2018-02-22 22:05:21 INFO  HomePage:84 - clicked on search button and object is:-[[ChromeDriver: chrome on MAC (0ff0661af750aaaf3b0b795ebb9ba37a)] -> id: ctl00_ctrlHeader_btnSearch_Click]
+2018-02-22 22:05:32 INFO  HomePage:86 - clicked on sublit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_cph1_ctrlSearch_dlCatalog_ctl00_ctrlProductBox_btnAddToCart'
+2018-02-22 22:05:32 INFO  TC002_AddProductToCard:33 - ========End TC002_AddProductToCard test
+2018-02-22 22:07:16 INFO  TestBase:56 - Creating object of chrome
+2018-02-22 22:07:19 INFO  TestBase:75 - navigating to :-http://192.168.0.108:8080//default.aspx
+2018-02-22 22:07:20 INFO  TC001_VerifyLoginWithValidCredentials:27 - ========Starting TC001_VerifyLoginWithInvalidCredentials test
+2018-02-22 22:07:21 INFO  HomePage:66 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (7d1bab9733e6ceec32aee660ef70f42d)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-22 22:07:21 INFO  HomePage:68 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (7d1bab9733e6ceec32aee660ef70f42d)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-22 22:07:21 INFO  HomePage:70 - entered password:-Minimicr0 and object is [[ChromeDriver: chrome on MAC (7d1bab9733e6ceec32aee660ef70f42d)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_Password']]
+2018-02-22 22:07:32 INFO  HomePage:72 - clicked on sublit butto and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-02-22 22:07:32 INFO  HomePage:76 - message is:-WELCOME TO OUR STORE FOR GREAT SAVINGS ON TEST TOOLS AND CALIBRATION.
+2018-02-22 22:07:32 INFO  TC001_VerifyLoginWithValidCredentials:32 - ========End TC001_VerifyLoginWithInvalidCredentials test
+2018-02-22 22:07:32 INFO  TC002_AddProductToCard:28 - ========Starting TC002_AddProductToCard test
+2018-02-22 22:07:32 INFO  HomePage:82 - clicked on search Input Druck DPI620G and object is:-[[ChromeDriver: chrome on MAC (10ccfea656d44530269e97af956a2625)] -> id: ctl00_ctrlHeader_txtSearchTerms]
+2018-02-22 22:07:34 INFO  HomePage:84 - clicked on search button and object is:-[[ChromeDriver: chrome on MAC (10ccfea656d44530269e97af956a2625)] -> id: ctl00_ctrlHeader_btnSearch_Click]
+2018-02-22 22:07:45 INFO  HomePage:86 - clicked on sublit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_cph1_ctrlSearch_dlCatalog_ctl00_ctrlProductBox_btnAddToCart'
+2018-02-22 22:07:45 INFO  TC002_AddProductToCard:32 - ========End TC002_AddProductToCard test
+2018-02-22 22:15:29 INFO  TC002_AddProductToCard:28 - ========Starting TC002_AddProductToCard test
+2018-02-22 22:15:30 INFO  HomePage:82 - clicked on search Input Druck DPI620G and object is:-[[ChromeDriver: chrome on MAC (9ebcf02e9772609a24a704e0be8314f1)] -> id: ctl00_ctrlHeader_txtSearchTerms]
+2018-02-22 22:15:32 INFO  HomePage:84 - clicked on search button and object is:-[[ChromeDriver: chrome on MAC (9ebcf02e9772609a24a704e0be8314f1)] -> id: ctl00_ctrlHeader_btnSearch_Click]
+2018-02-22 22:15:42 INFO  HomePage:86 - clicked on add to card button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_cph1_ctrlSearch_dlCatalog_ctl00_ctrlProductBox_btnAddToCart'
+2018-02-22 22:15:42 INFO  HomePage:90 - message is:-true
+2018-02-22 22:15:42 INFO  TC002_AddProductToCard:32 - ========End TC002_AddProductToCard test
