@@ -78,3 +78,9 @@
 2018-02-22 22:15:42 INFO  HomePage:86 - clicked on add to card button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_cph1_ctrlSearch_dlCatalog_ctl00_ctrlProductBox_btnAddToCart'
 2018-02-22 22:15:42 INFO  HomePage:90 - message is:-true
 2018-02-22 22:15:42 INFO  TC002_AddProductToCard:32 - ========End TC002_AddProductToCard test
+2018-02-22 22:37:36 INFO  TC002_AddProductToCard:28 - ========Starting TC002_AddProductToCard test
+2018-02-22 22:37:36 INFO  HomePage:82 - clicked on search Input Druck DPI620G and object is:-[[ChromeDriver: chrome on MAC (1b770ae1f69f8b456c0c0939a234cdc4)] -> id: ctl00_ctrlHeader_txtSearchTerms]
+2018-02-22 22:37:38 INFO  HomePage:84 - clicked on search button and object is:-[[ChromeDriver: chrome on MAC (1b770ae1f69f8b456c0c0939a234cdc4)] -> id: ctl00_ctrlHeader_btnSearch_Click]
+2018-02-22 22:37:49 INFO  HomePage:86 - clicked on add to card button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_cph1_ctrlSearch_dlCatalog_ctl00_ctrlProductBox_btnAddToCart'
+2018-02-22 22:37:49 INFO  HomePage:90 - Checkout button is present:-true
+2018-02-22 22:37:49 INFO  TC002_AddProductToCard:32 - ========End TC002_AddProductToCard test

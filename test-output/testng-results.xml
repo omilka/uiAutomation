@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="19132" started-at="2018-02-22T22:15:23Z" finished-at="2018-02-22T22:15:42Z">
+  <suite name="Default suite" duration-ms="19207" started-at="2018-02-22T22:37:30Z" finished-at="2018-02-22T22:37:49Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="19132" started-at="2018-02-22T22:15:23Z" finished-at="2018-02-22T22:15:42Z">
+    <test name="Default test" duration-ms="19207" started-at="2018-02-22T22:37:30Z" finished-at="2018-02-22T22:37:49Z">
       <class name="com.test.automation.uiAutomation.homePage.TC002_AddProductToCard">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.automation.uiAutomation.homePage.TC002_AddProductToCard@e25b2fe]" name="setUp" is-config="true" duration-ms="6166" started-at="2018-02-22T22:15:23Z" finished-at="2018-02-22T22:15:29Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.automation.uiAutomation.homePage.TC002_AddProductToCard@4facf68f]" name="setUp" is-config="true" duration-ms="6035" started-at="2018-02-22T22:37:30Z" finished-at="2018-02-22T22:37:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="verifyAddProductToCard()[pri:0, instance:com.test.automation.uiAutomation.homePage.TC002_AddProductToCard@e25b2fe]" name="verifyAddProductToCard" duration-ms="12844" started-at="2018-02-22T22:15:29Z" finished-at="2018-02-22T22:15:42Z">
+        <test-method status="PASS" signature="verifyAddProductToCard()[pri:0, instance:com.test.automation.uiAutomation.homePage.TC002_AddProductToCard@4facf68f]" name="verifyAddProductToCard" duration-ms="13019" started-at="2018-02-22T22:37:36Z" finished-at="2018-02-22T22:37:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyAddProductToCard -->
-        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.automation.uiAutomation.homePage.TC002_AddProductToCard@e25b2fe]" name="endTest" is-config="true" duration-ms="104" started-at="2018-02-22T22:15:42Z" finished-at="2018-02-22T22:15:42Z">
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.automation.uiAutomation.homePage.TC002_AddProductToCard@4facf68f]" name="endTest" is-config="true" duration-ms="121" started-at="2018-02-22T22:37:49Z" finished-at="2018-02-22T22:37:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endTest -->

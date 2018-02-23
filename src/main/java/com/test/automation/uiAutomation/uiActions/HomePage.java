@@ -87,7 +87,7 @@ public String getInvalidLoginText(){
 }
 
 	public boolean getCheckoutButton(){
-		log.info("message is:-"+checkoutButton.isDisplayed());
+		log.info("Checkout button is present:-"+checkoutButton.isDisplayed());
 	return checkoutButton.isDisplayed();
 	}
 	
