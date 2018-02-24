@@ -5,8 +5,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class HomePage {
 
@@ -44,9 +42,15 @@ public class HomePage {
 	@FindBy(id="ctl00_cph1_ctrlSearch_dlCatalog_ctl00_ctrlProductBox_btnAddToCart")
 	WebElement addToCart;
 	
+	
 	@FindBy(id="ctl00_cph1_OrderSummaryControl_btnCheckout")
 	WebElement checkoutButton;
 	
+	@FindBy(xpath="//*[@id=\"aspnetForm\"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a")
+	WebElement logout;
+	
+	@FindBy(xpath="//*[@id='aspnetForm']/div[3]/table/tbody/tr/td/table/tbody/tr/td/div/div[1]")
+	WebElement logoutSuccess;
 	
 	@FindBy(id="CreatePassword")
 	WebElement createPassword;
@@ -87,11 +91,34 @@ public String getInvalidLoginText(){
 }
 
 	public boolean getCheckoutButton(){
+		try {
 		log.info("Checkout button is present:-"+checkoutButton.isDisplayed());
-	return checkoutButton.isDisplayed();
+     checkoutButton.isDisplayed();
+	 return true;
+	} catch (Exception e) {
+	   return false;
+	}
 	}
 	
-
+	public boolean verifyLogoutDisplay(){
+		try {
+			logout.isDisplayed();
+			log.info("logout is dispalyed and object is:-"+logout.toString());
+			return true;
+		} catch (Exception e) {
+			return false;
+		}
+	}
+	
+	public void clickOnLogout() {
+		logout.click();
+	}
+	
+	public String getLogoutText(){
+		log.info("message is:-"+logoutSuccess.getText());
+		return logoutSuccess.getText();
+	}
+}
 /* 
 	public void registorUser(String product, String lastName, String emailAddress, String password){
 		signUpLink.click();
@@ -113,35 +140,9 @@ public String getInvalidLoginText(){
 		log("clicked on craete and account and object is:-"+signUpLink.toString());
 	}
 	
-	public boolean getRegistrationSuccess(){
-		try {
-			driver.findElement(By.xpath("//*[@id='MainContent']/div/p")).isDisplayed();
-			return true;
-		} catch (Exception e) {
-		   return false;
-		}
-	}
-	
-	public void loginToDemoSite(String emailAddress,String loginPassword){
-		loginLink.click();
-		loginEmail.sendKeys(emailAddress);
-		password.sendKeys(loginPassword);
-		clickOnSignIn.click();
-	}
-	
-	public boolean verifyLogoutDisplay(){
-		try {
-			logout.isDisplayed();
-			log("logout is dispalyed and object is:-"+logout.toString());
-			return true;
-		} catch (Exception e) {
-			return false;
-		}
-	}
-	
-	public void clickOnLogout() {
-		logout.click();
-	}
+
+
+
 	
 	public void clickOnNavigationMenu(String menuName){
 		driver.findElement(By.xpath("//button[contains(text(),'"+menuName+"') and @aria-expanded='false']")).click();
@@ -179,4 +180,4 @@ public String getInvalidLoginText(){
 }
 	*/
 	
-}
+
