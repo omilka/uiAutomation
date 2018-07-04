@@ -35,7 +35,7 @@ Assert.assertTrue(homepage.getCheckoutButton());
     
 	@AfterTest
     public void endTest() {
-	//	driver.quit();
+		driver.quit();
 		
 }
 }

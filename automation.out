@@ -273,3 +273,382 @@
 2018-02-24 12:16:25 INFO  HomePage:74 - entered password:-Minimicr0 and object is [[ChromeDriver: chrome on MAC (dc596f72f547bc43f2096237068ec200)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_Password']]
 2018-02-24 12:16:36 INFO  HomePage:76 - clicked on sublit butto and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
 2018-02-24 12:16:36 INFO  HomePage:106 - logout is dispalyed and object is:-[[ChromeDriver: chrome on MAC (dc596f72f547bc43f2096237068ec200)] -> xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a]
+2018-02-24 19:16:24 INFO  TC004_VerifyLoginWithDifferentCred:39 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-02-24 19:16:24 INFO  HomePage:70 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (36653de52be5608443c564fda12b4382)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-24 19:16:25 INFO  HomePage:72 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (36653de52be5608443c564fda12b4382)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-24 19:16:25 INFO  HomePage:74 - entered password:-Minimicr0 and object is [[ChromeDriver: chrome on MAC (36653de52be5608443c564fda12b4382)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_Password']]
+2018-02-24 19:16:36 INFO  HomePage:76 - clicked on sublit butto and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-02-24 19:16:36 INFO  TC004_VerifyLoginWithDifferentCred:47 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-02-25 16:17:15 INFO  TC004_VerifyLoginWithDifferentCred:44 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-02-25 16:17:15 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (eba98cd685d4457d0d0ff8f5be2c612c)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-25 16:17:16 INFO  HomePage:74 - entered email address:-automation@gmail.com and object is [[ChromeDriver: chrome on MAC (eba98cd685d4457d0d0ff8f5be2c612c)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-25 16:17:16 INFO  HomePage:76 - entered password:-password and object is [[ChromeDriver: chrome on MAC (eba98cd685d4457d0d0ff8f5be2c612c)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_Password']]
+2018-02-25 16:17:17 INFO  HomePage:78 - clicked on sublit butto and object is:-[[ChromeDriver: chrome on MAC (eba98cd685d4457d0d0ff8f5be2c612c)] -> id: ctl00_ctrlHeader_LoginForm_LoginButton]
+2018-02-25 16:17:17 INFO  TC004_VerifyLoginWithDifferentCred:44 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-02-25 16:17:17 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (eba98cd685d4457d0d0ff8f5be2c612c)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-25 16:17:18 INFO  HomePage:74 - entered email address:-automation@gmail.com and object is [[ChromeDriver: chrome on MAC (eba98cd685d4457d0d0ff8f5be2c612c)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-25 16:17:18 INFO  HomePage:76 - entered password:-password and object is [[ChromeDriver: chrome on MAC (eba98cd685d4457d0d0ff8f5be2c612c)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_Password']]
+2018-02-25 16:17:19 INFO  HomePage:78 - clicked on sublit butto and object is:-[[ChromeDriver: chrome on MAC (eba98cd685d4457d0d0ff8f5be2c612c)] -> id: ctl00_ctrlHeader_LoginForm_LoginButton]
+2018-02-25 16:17:19 INFO  TC004_VerifyLoginWithDifferentCred:44 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-02-25 16:17:19 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (eba98cd685d4457d0d0ff8f5be2c612c)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-25 16:17:19 INFO  HomePage:74 - entered email address:-automation@gmail.com and object is [[ChromeDriver: chrome on MAC (eba98cd685d4457d0d0ff8f5be2c612c)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-25 16:17:19 INFO  HomePage:76 - entered password:-password and object is [[ChromeDriver: chrome on MAC (eba98cd685d4457d0d0ff8f5be2c612c)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_Password']]
+2018-02-25 16:17:20 INFO  HomePage:78 - clicked on sublit butto and object is:-[[ChromeDriver: chrome on MAC (eba98cd685d4457d0d0ff8f5be2c612c)] -> id: ctl00_ctrlHeader_LoginForm_LoginButton]
+2018-02-25 17:23:39 INFO  TC003_VerifyLogout:28 - ========TC003_VerifyLogout=======
+2018-02-25 17:23:41 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (a3f134040897a251d6286d5adaa1acfb)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-25 17:23:42 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (a3f134040897a251d6286d5adaa1acfb)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-25 17:23:43 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-02-25 17:23:56 INFO  HomePage:78 - clicked on sublit butto and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-02-25 17:31:54 INFO  TC003_VerifyLogout:28 - ========TC003_VerifyLogout=======
+2018-02-25 17:31:56 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (c9564c62632a2a8e234def63a6405c86)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-25 17:31:57 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (c9564c62632a2a8e234def63a6405c86)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-25 17:31:57 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-02-25 17:32:10 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-02-25 17:32:22 INFO  HomePage:121 - clicked on logout button and object is:Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a'
+2018-02-25 17:32:22 INFO  HomePage:125 - message is:-WELCOME, PLEASE SIGN IN!
+2018-02-25 17:32:23 INFO  TC003_VerifyLogout:35 - =======TC003_VerifyLogout========
+2018-02-25 17:34:10 INFO  TC003_VerifyLogout:28 - ========TC003_VerifyLogout=======
+2018-02-25 17:34:11 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (25fbc80e420b119dc5c3feaabe59ee06)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-25 17:34:12 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (25fbc80e420b119dc5c3feaabe59ee06)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-25 17:34:13 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-02-25 17:34:25 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-02-25 17:34:37 INFO  HomePage:121 - clicked on logout button and object is:Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a'
+2018-02-25 17:34:38 INFO  HomePage:125 - message is:-WELCOME, PLEASE SIGN IN!
+2018-02-25 17:34:38 INFO  TC003_VerifyLogout:35 - =======TC003_VerifyLogout========
+2018-02-25 17:35:15 INFO  TC003_VerifyLogout:28 - ========TC003_VerifyLogout=======
+2018-02-25 17:35:16 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (35abf2e2a40591793a83efc0bd7432bd)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-25 17:35:17 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (35abf2e2a40591793a83efc0bd7432bd)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-25 17:35:17 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-02-25 17:35:29 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-02-25 17:35:29 INFO  HomePage:112 - logout is dispalyed and object is:-[[ChromeDriver: chrome on MAC (35abf2e2a40591793a83efc0bd7432bd)] -> xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a]
+2018-02-25 17:35:40 INFO  HomePage:121 - clicked on logout button and object is:Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a'
+2018-02-25 17:35:41 INFO  HomePage:125 - message is:-WELCOME, PLEASE SIGN IN!
+2018-02-25 17:35:42 INFO  TC003_VerifyLogout:35 - =======TC003_VerifyLogout========
+2018-02-25 17:43:28 INFO  TC004_VerifyLoginWithDifferentCred:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-02-25 17:43:28 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (6db9f84dedae4a7f4ad90d2888e825fc)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-25 17:43:28 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (6db9f84dedae4a7f4ad90d2888e825fc)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-25 17:43:28 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-02-25 17:43:39 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-02-25 17:43:39 INFO  HomePage:112 - logout is dispalyed and object is:-[[ChromeDriver: chrome on MAC (6db9f84dedae4a7f4ad90d2888e825fc)] -> xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a]
+2018-02-25 17:43:49 INFO  HomePage:121 - clicked on logout button and object is:Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a'
+2018-02-25 17:43:49 INFO  TC004_VerifyLoginWithDifferentCred:51 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-02-25 17:43:49 INFO  TC004_VerifyLoginWithDifferentCred:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-02-25 17:43:49 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (6db9f84dedae4a7f4ad90d2888e825fc)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-25 17:43:49 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (6db9f84dedae4a7f4ad90d2888e825fc)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-25 17:43:49 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-02-25 17:44:00 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-02-25 17:44:00 INFO  HomePage:112 - logout is dispalyed and object is:-[[ChromeDriver: chrome on MAC (6db9f84dedae4a7f4ad90d2888e825fc)] -> xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a]
+2018-02-25 17:44:10 INFO  HomePage:121 - clicked on logout button and object is:Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a'
+2018-02-25 17:44:10 INFO  TC004_VerifyLoginWithDifferentCred:51 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-02-25 17:44:10 INFO  TC004_VerifyLoginWithDifferentCred:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-02-25 17:44:10 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (6db9f84dedae4a7f4ad90d2888e825fc)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-25 17:44:11 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (6db9f84dedae4a7f4ad90d2888e825fc)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-25 17:44:11 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-02-25 17:44:21 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-02-25 17:44:21 INFO  HomePage:112 - logout is dispalyed and object is:-[[ChromeDriver: chrome on MAC (6db9f84dedae4a7f4ad90d2888e825fc)] -> xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a]
+2018-02-25 17:44:32 INFO  HomePage:121 - clicked on logout button and object is:Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a'
+2018-02-25 17:44:32 INFO  TC004_VerifyLoginWithDifferentCred:51 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-02-25 17:44:32 INFO  TC004_VerifyLoginWithDifferentCred:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-02-25 17:44:37 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (6db9f84dedae4a7f4ad90d2888e825fc)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-25 17:44:37 INFO  HomePage:74 - entered email address:-false and object is [[ChromeDriver: chrome on MAC (6db9f84dedae4a7f4ad90d2888e825fc)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-25 17:44:37 INFO  HomePage:76 - entered password:-false and object is false
+2018-02-25 17:44:42 INFO  HomePage:78 - clicked on submit button and object is:-[[ChromeDriver: chrome on MAC (6db9f84dedae4a7f4ad90d2888e825fc)] -> id: ctl00_ctrlHeader_LoginForm_LoginButton]
+2018-02-25 17:44:52 INFO  TC004_VerifyLoginWithDifferentCred:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-02-25 17:44:57 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (6db9f84dedae4a7f4ad90d2888e825fc)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-25 17:44:58 INFO  HomePage:74 - entered email address:-false and object is [[ChromeDriver: chrome on MAC (6db9f84dedae4a7f4ad90d2888e825fc)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-25 17:44:58 INFO  HomePage:76 - entered password:-false and object is false
+2018-02-25 17:45:03 INFO  HomePage:78 - clicked on submit button and object is:-[[ChromeDriver: chrome on MAC (6db9f84dedae4a7f4ad90d2888e825fc)] -> id: ctl00_ctrlHeader_LoginForm_LoginButton]
+2018-02-25 17:50:19 INFO  TC004_VerifyLoginWithDifferentCred:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-02-25 17:50:19 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (873f7066ac7808c3d4878dcecb148990)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-25 17:50:19 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (873f7066ac7808c3d4878dcecb148990)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-25 17:50:19 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-02-25 17:50:30 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-02-25 17:50:30 INFO  HomePage:112 - logout is dispalyed and object is:-[[ChromeDriver: chrome on MAC (873f7066ac7808c3d4878dcecb148990)] -> xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a]
+2018-02-25 17:50:40 INFO  HomePage:121 - clicked on logout button and object is:Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a'
+2018-02-25 17:50:40 INFO  TC004_VerifyLoginWithDifferentCred:51 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-02-25 17:50:40 INFO  TC004_VerifyLoginWithDifferentCred:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-02-25 17:50:41 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (873f7066ac7808c3d4878dcecb148990)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-25 17:50:41 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (873f7066ac7808c3d4878dcecb148990)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-25 17:50:41 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-02-25 17:50:51 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-02-25 17:50:51 INFO  HomePage:112 - logout is dispalyed and object is:-[[ChromeDriver: chrome on MAC (873f7066ac7808c3d4878dcecb148990)] -> xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a]
+2018-02-25 17:51:02 INFO  HomePage:121 - clicked on logout button and object is:Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a'
+2018-02-25 17:51:02 INFO  TC004_VerifyLoginWithDifferentCred:51 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-02-25 17:51:02 INFO  TC004_VerifyLoginWithDifferentCred:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-02-25 17:51:02 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (873f7066ac7808c3d4878dcecb148990)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-25 17:51:02 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (873f7066ac7808c3d4878dcecb148990)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-25 17:51:02 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-02-25 17:51:13 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-02-25 17:51:13 INFO  HomePage:112 - logout is dispalyed and object is:-[[ChromeDriver: chrome on MAC (873f7066ac7808c3d4878dcecb148990)] -> xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a]
+2018-02-25 17:51:23 INFO  HomePage:121 - clicked on logout button and object is:Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a'
+2018-02-25 17:51:23 INFO  TC004_VerifyLoginWithDifferentCred:51 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-02-25 23:08:48 INFO  TC004_VerifyLoginWithDifferentCred:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-02-25 23:09:31 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (faa2eab8859c26d5630f325c525c29ac)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-25 23:09:31 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (faa2eab8859c26d5630f325c525c29ac)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-25 23:09:32 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-02-25 23:09:35 INFO  TC004_VerifyLoginWithDifferentCred:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-02-25 23:09:35 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (fc5d2b45643ccb288cd2e9d8188e6a3c)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-25 23:09:36 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (fc5d2b45643ccb288cd2e9d8188e6a3c)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-25 23:09:36 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-02-25 23:09:43 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-02-25 23:09:43 INFO  HomePage:112 - logout is dispalyed and object is:-[[ChromeDriver: chrome on MAC (faa2eab8859c26d5630f325c525c29ac)] -> xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a]
+2018-02-25 23:09:47 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-02-25 23:09:48 INFO  HomePage:112 - logout is dispalyed and object is:-[[ChromeDriver: chrome on MAC (fc5d2b45643ccb288cd2e9d8188e6a3c)] -> xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a]
+2018-02-25 23:09:59 INFO  HomePage:121 - clicked on logout button and object is:Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a'
+2018-02-25 23:09:59 INFO  TC004_VerifyLoginWithDifferentCred:51 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-02-25 23:10:01 INFO  TC004_VerifyLoginWithDifferentCred:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-02-25 23:10:01 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (faa2eab8859c26d5630f325c525c29ac)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-25 23:10:01 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (faa2eab8859c26d5630f325c525c29ac)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-25 23:10:01 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-02-25 23:10:03 INFO  HomePage:121 - clicked on logout button and object is:Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a'
+2018-02-25 23:10:03 INFO  TC004_VerifyLoginWithDifferentCred:51 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-02-25 23:10:04 INFO  TC004_VerifyLoginWithDifferentCred:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-02-25 23:10:04 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (fc5d2b45643ccb288cd2e9d8188e6a3c)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-25 23:10:05 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (fc5d2b45643ccb288cd2e9d8188e6a3c)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-25 23:10:05 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-02-25 23:10:12 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-02-25 23:10:12 INFO  HomePage:112 - logout is dispalyed and object is:-[[ChromeDriver: chrome on MAC (faa2eab8859c26d5630f325c525c29ac)] -> xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a]
+2018-02-25 23:10:15 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-02-25 23:10:15 INFO  HomePage:112 - logout is dispalyed and object is:-[[ChromeDriver: chrome on MAC (fc5d2b45643ccb288cd2e9d8188e6a3c)] -> xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a]
+2018-02-25 23:10:28 INFO  HomePage:121 - clicked on logout button and object is:Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a'
+2018-02-25 23:10:28 INFO  TC004_VerifyLoginWithDifferentCred:51 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-02-25 23:10:29 INFO  TC004_VerifyLoginWithDifferentCred:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-02-25 23:10:30 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (faa2eab8859c26d5630f325c525c29ac)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-25 23:10:30 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (faa2eab8859c26d5630f325c525c29ac)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-25 23:10:30 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-02-25 23:10:31 INFO  HomePage:121 - clicked on logout button and object is:Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a'
+2018-02-25 23:10:31 INFO  TC004_VerifyLoginWithDifferentCred:51 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-02-25 23:10:31 INFO  TC004_VerifyLoginWithDifferentCred:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-02-25 23:10:32 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (fc5d2b45643ccb288cd2e9d8188e6a3c)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-25 23:10:32 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (fc5d2b45643ccb288cd2e9d8188e6a3c)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-25 23:10:32 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-02-25 23:10:41 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-02-25 23:10:41 INFO  HomePage:112 - logout is dispalyed and object is:-[[ChromeDriver: chrome on MAC (faa2eab8859c26d5630f325c525c29ac)] -> xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a]
+2018-02-25 23:10:43 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-02-25 23:10:43 INFO  HomePage:112 - logout is dispalyed and object is:-[[ChromeDriver: chrome on MAC (fc5d2b45643ccb288cd2e9d8188e6a3c)] -> xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a]
+2018-02-26 13:21:03 INFO  TC004_VerifyLoginWithDifferentCred:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-02-26 13:21:04 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (35f2552c13b25e932899bd04642f5b79)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-26 13:21:04 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (35f2552c13b25e932899bd04642f5b79)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-26 13:21:04 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-02-26 13:21:15 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-02-26 13:21:15 INFO  HomePage:112 - logout is dispalyed and object is:-[[ChromeDriver: chrome on MAC (35f2552c13b25e932899bd04642f5b79)] -> xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a]
+2018-02-26 13:21:25 INFO  HomePage:121 - clicked on logout button and object is:Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a'
+2018-02-26 13:21:25 INFO  TC004_VerifyLoginWithDifferentCred:51 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-02-26 13:21:26 INFO  TC004_VerifyLoginWithDifferentCred:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-02-26 13:21:26 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (35f2552c13b25e932899bd04642f5b79)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-26 13:21:26 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (35f2552c13b25e932899bd04642f5b79)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-26 13:21:26 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-02-26 13:21:37 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-02-26 13:21:37 INFO  HomePage:112 - logout is dispalyed and object is:-[[ChromeDriver: chrome on MAC (35f2552c13b25e932899bd04642f5b79)] -> xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a]
+2018-02-26 13:21:52 INFO  HomePage:121 - clicked on logout button and object is:Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a'
+2018-02-26 13:21:52 INFO  TC004_VerifyLoginWithDifferentCred:51 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-02-26 13:21:53 INFO  TC004_VerifyLoginWithDifferentCred:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-02-26 13:21:53 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (35f2552c13b25e932899bd04642f5b79)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-26 13:21:53 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (35f2552c13b25e932899bd04642f5b79)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-26 13:21:53 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-02-26 13:22:04 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-02-26 13:22:04 INFO  HomePage:112 - logout is dispalyed and object is:-[[ChromeDriver: chrome on MAC (35f2552c13b25e932899bd04642f5b79)] -> xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a]
+2018-02-26 13:22:19 INFO  HomePage:121 - clicked on logout button and object is:Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a'
+2018-02-26 13:22:19 INFO  TC004_VerifyLoginWithDifferentCred:51 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-02-26 19:45:59 INFO  TestBase:64 - Creating object of chrome
+2018-02-26 19:46:02 INFO  TestBase:78 - navigating to :-http://192.168.0.108:8080//default.aspx
+2018-02-26 19:46:03 INFO  TestBase:64 - Creating object of chrome
+2018-02-26 19:46:05 INFO  TestBase:78 - navigating to :-http://192.168.0.108:8080//default.aspx
+2018-02-26 19:46:06 INFO  TC001_VerifyLoginWithValidCredentials:27 - ========Starting TC001_VerifyLoginWithInvalidCredentials test
+2018-02-26 19:46:06 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (af2a4815818b432c5cfafbebe0fd28b7)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-26 19:46:07 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (af2a4815818b432c5cfafbebe0fd28b7)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-26 19:46:07 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-02-26 19:46:18 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-02-26 19:46:18 INFO  HomePage:85 - message is:-WELCOME TO OUR STORE FOR GREAT SAVINGS ON TEST TOOLS AND CALIBRATION.
+2018-02-26 19:46:18 INFO  TC001_VerifyLoginWithValidCredentials:32 - ========End TC001_VerifyLoginWithInvalidCredentials test
+2018-02-26 19:46:18 INFO  TC002_AddProductToCard:28 - ========Starting TC002_AddProductToCard test
+2018-02-26 19:46:18 INFO  HomePage:91 - clicked on search Input Druck DPI620G and object is:-[[ChromeDriver: chrome on MAC (2a73f00da157df83e0f9a9434234e159)] -> id: ctl00_ctrlHeader_txtSearchTerms]
+2018-02-26 19:46:21 INFO  HomePage:93 - clicked on search button and object is:-[[ChromeDriver: chrome on MAC (2a73f00da157df83e0f9a9434234e159)] -> id: ctl00_ctrlHeader_btnSearch_Click]
+2018-02-26 19:46:32 INFO  HomePage:95 - clicked on add to card button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_cph1_ctrlSearch_dlCatalog_ctl00_ctrlProductBox_btnAddToCart'
+2018-02-26 19:46:32 INFO  HomePage:100 - Checkout button is present:-true
+2018-02-26 19:46:32 INFO  TC002_AddProductToCard:32 - ========End TC002_AddProductToCard test
+2018-02-26 19:46:32 INFO  TC003_VerifyLogout:28 - ========TC003_VerifyLogout=======
+2018-02-26 19:46:32 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (9b3797d78eb05f3d75bedc805e421f1b)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-26 19:46:32 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (9b3797d78eb05f3d75bedc805e421f1b)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-26 19:46:33 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-02-26 19:46:43 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-02-26 19:46:43 INFO  HomePage:112 - logout is dispalyed and object is:-[[ChromeDriver: chrome on MAC (9b3797d78eb05f3d75bedc805e421f1b)] -> xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a]
+2018-02-26 19:46:54 INFO  HomePage:121 - clicked on logout button and object is:Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a'
+2018-02-26 19:46:54 INFO  HomePage:125 - message is:-WELCOME, PLEASE SIGN IN!
+2018-02-26 19:46:54 INFO  TC003_VerifyLogout:35 - =======TC003_VerifyLogout========
+2018-02-26 19:53:15 INFO  TC003_VerifyLogout:28 - ========TC003_VerifyLogout=======
+2018-02-26 19:55:23 INFO  TC003_VerifyLogout:28 - ========TC003_VerifyLogout=======
+2018-02-26 19:55:23 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (ca4932bb6be15eb3ebe85a2dbc78a052)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-26 19:55:23 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (ca4932bb6be15eb3ebe85a2dbc78a052)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-26 19:55:23 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-02-26 19:55:34 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-02-26 19:55:34 INFO  HomePage:112 - logout is dispalyed and object is:-[[ChromeDriver: chrome on MAC (ca4932bb6be15eb3ebe85a2dbc78a052)] -> xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a]
+2018-02-26 19:55:44 INFO  HomePage:121 - clicked on logout button and object is:Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a'
+2018-02-26 19:55:44 INFO  HomePage:125 - message is:-WELCOME, PLEASE SIGN IN!
+2018-02-26 19:55:44 INFO  TC003_VerifyLogout:35 - =======TC003_VerifyLogout========
+2018-02-26 19:56:01 INFO  TC003_VerifyLogout:28 - ========TC003_VerifyLogout=======
+2018-02-26 19:56:01 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (9234d05110df9a5d1cb7425ae5e29bd5)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-26 19:56:01 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (9234d05110df9a5d1cb7425ae5e29bd5)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-26 19:56:01 INFO  HomePage:76 - entered password:-Minimicr and object is Minimicr
+2018-02-26 19:56:02 INFO  HomePage:78 - clicked on submit button and object is:-[[ChromeDriver: chrome on MAC (9234d05110df9a5d1cb7425ae5e29bd5)] -> id: ctl00_ctrlHeader_LoginForm_LoginButton]
+2018-02-26 20:03:37 INFO  TC003_VerifyLogout:28 - ========TC003_VerifyLogout=======
+2018-02-26 20:03:37 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (02839b8212f73fb39d6c7134db0baa7b)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-26 20:03:38 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (02839b8212f73fb39d6c7134db0baa7b)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-26 20:03:38 INFO  HomePage:76 - entered password:-Minimicr and object is Minimicr
+2018-02-26 20:03:38 INFO  HomePage:78 - clicked on submit button and object is:-[[ChromeDriver: chrome on MAC (02839b8212f73fb39d6c7134db0baa7b)] -> id: ctl00_ctrlHeader_LoginForm_LoginButton]
+2018-02-26 20:08:43 INFO  TC003_VerifyLogout:28 - ========TC003_VerifyLogout=======
+2018-02-26 20:08:43 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (faf8241ffe4f379034027ae7c2b0799c)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-26 20:08:44 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (faf8241ffe4f379034027ae7c2b0799c)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-26 20:08:44 INFO  HomePage:76 - entered password:-Minimicr and object is Minimicr
+2018-02-26 20:08:44 INFO  HomePage:78 - clicked on submit button and object is:-[[ChromeDriver: chrome on MAC (faf8241ffe4f379034027ae7c2b0799c)] -> id: ctl00_ctrlHeader_LoginForm_LoginButton]
+2018-02-26 20:23:42 INFO  TC003_VerifyLogout:28 - ========TC003_VerifyLogout=======
+2018-02-26 20:23:42 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (8245cadd61b4c0cfb61570feb3cbcd0d)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-02-26 20:23:42 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (8245cadd61b4c0cfb61570feb3cbcd0d)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-02-26 20:23:42 INFO  HomePage:76 - entered password:-Minimicr and object is Minimicr
+2018-02-26 20:23:43 INFO  HomePage:78 - clicked on submit button and object is:-[[ChromeDriver: chrome on MAC (8245cadd61b4c0cfb61570feb3cbcd0d)] -> id: ctl00_ctrlHeader_LoginForm_LoginButton]
+2018-05-03 22:28:03 INFO  TC003_VerifyLogout:28 - ========TC003_VerifyLogout=======
+2018-05-03 22:28:04 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (7fd9b26b53393e205e2a793bd7fa494f)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-05-03 22:28:04 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (7fd9b26b53393e205e2a793bd7fa494f)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-05-03 22:28:04 INFO  HomePage:76 - entered password:-Minimicr and object is Minimicr
+2018-05-03 22:28:05 INFO  HomePage:78 - clicked on submit button and object is:-[[ChromeDriver: chrome on MAC (7fd9b26b53393e205e2a793bd7fa494f)] -> id: ctl00_ctrlHeader_LoginForm_LoginButton]
+2018-05-03 22:32:04 INFO  TC001_VerifyLoginWithValidCredentials:27 - ========Starting TC001_VerifyLoginWithInvalidCredentials test
+2018-05-03 22:32:04 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (0289d2d2908ceba6dbebff84f8f32d97)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-05-03 22:32:05 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (0289d2d2908ceba6dbebff84f8f32d97)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-05-03 22:32:05 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-05-03 22:32:16 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-05-03 22:32:16 INFO  HomePage:85 - message is:-WELCOME TO OUR STORE FOR GREAT SAVINGS ON TEST TOOLS AND CALIBRATION.
+2018-05-03 22:32:16 INFO  TC001_VerifyLoginWithValidCredentials:32 - ========End TC001_VerifyLoginWithInvalidCredentials test
+2018-05-03 22:33:28 INFO  TC003_VerifyLogout:28 - ========TC003_VerifyLogout=======
+2018-05-03 22:33:29 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (f43f01ce00a3e3332398f8618fab7eb6)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-05-03 22:33:29 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (f43f01ce00a3e3332398f8618fab7eb6)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-05-03 22:33:29 INFO  HomePage:76 - entered password:-Minimicr and object is Minimicr
+2018-05-03 22:33:30 INFO  HomePage:78 - clicked on submit button and object is:-[[ChromeDriver: chrome on MAC (f43f01ce00a3e3332398f8618fab7eb6)] -> id: ctl00_ctrlHeader_LoginForm_LoginButton]
+2018-05-03 22:36:27 INFO  TC002_AddProductToCard:28 - ========Starting TC002_AddProductToCard test
+2018-05-03 22:36:28 INFO  HomePage:91 - clicked on search Input Druck DPI620G and object is:-[[ChromeDriver: chrome on MAC (fdb6a9064b2c451d6d1d0a22c2b67ce5)] -> id: ctl00_ctrlHeader_txtSearchTerms]
+2018-05-03 22:36:33 INFO  HomePage:93 - clicked on search button and object is:-[[ChromeDriver: chrome on MAC (fdb6a9064b2c451d6d1d0a22c2b67ce5)] -> id: ctl00_ctrlHeader_btnSearch_Click]
+2018-05-03 22:36:44 INFO  HomePage:95 - clicked on add to card button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_cph1_ctrlSearch_dlCatalog_ctl00_ctrlProductBox_btnAddToCart'
+2018-05-03 22:36:44 INFO  HomePage:100 - Checkout button is present:-true
+2018-05-03 22:36:44 INFO  TC002_AddProductToCard:32 - ========End TC002_AddProductToCard test
+2018-05-03 22:37:16 INFO  TC003_VerifyLogout:28 - ========TC003_VerifyLogout=======
+2018-05-03 22:37:16 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (4df7fac648be09e95f965c07eacc044f)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-05-03 22:37:16 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (4df7fac648be09e95f965c07eacc044f)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-05-03 22:37:16 INFO  HomePage:76 - entered password:-Minimicr and object is Minimicr
+2018-05-03 22:37:17 INFO  HomePage:78 - clicked on submit button and object is:-[[ChromeDriver: chrome on MAC (4df7fac648be09e95f965c07eacc044f)] -> id: ctl00_ctrlHeader_LoginForm_LoginButton]
+2018-05-03 22:40:09 INFO  TC003_VerifyLogout:28 - ========TC003_VerifyLogout=======
+2018-05-03 22:40:09 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (f8b8d58ea6105e131a391b661ee0580b)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-05-03 22:40:10 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (f8b8d58ea6105e131a391b661ee0580b)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-05-03 22:40:10 INFO  HomePage:76 - entered password:-Minimicr and object is Minimicr
+2018-05-03 22:40:11 INFO  HomePage:78 - clicked on submit button and object is:-[[ChromeDriver: chrome on MAC (f8b8d58ea6105e131a391b661ee0580b)] -> id: ctl00_ctrlHeader_LoginForm_LoginButton]
+2018-05-03 22:42:07 INFO  TC003_VerifyLogout:28 - ========TC003_VerifyLogout=======
+2018-05-03 22:42:07 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (01b0e2100ab326744607205cab83de4e)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-05-03 22:42:07 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (01b0e2100ab326744607205cab83de4e)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-05-03 22:42:07 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-05-03 22:42:18 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-05-03 22:42:18 INFO  HomePage:112 - logout is dispalyed and object is:-[[ChromeDriver: chrome on MAC (01b0e2100ab326744607205cab83de4e)] -> xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a]
+2018-05-03 22:42:29 INFO  HomePage:121 - clicked on logout button and object is:Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a'
+2018-05-03 22:42:29 INFO  HomePage:125 - message is:-WELCOME, PLEASE SIGN IN!
+2018-05-03 22:42:29 INFO  TC003_VerifyLogout:35 - =======TC003_VerifyLogout========
+2018-05-03 22:42:55 INFO  TC003_VerifyLogout:28 - ========TC003_VerifyLogout=======
+2018-05-03 22:42:56 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (be0b6a4c4c3b8c8f2324880b340c6590)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-05-03 22:42:56 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (be0b6a4c4c3b8c8f2324880b340c6590)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-05-03 22:42:56 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-05-03 22:43:07 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-05-03 22:43:07 INFO  HomePage:112 - logout is dispalyed and object is:-[[ChromeDriver: chrome on MAC (be0b6a4c4c3b8c8f2324880b340c6590)] -> xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a]
+2018-05-03 22:43:18 INFO  HomePage:121 - clicked on logout button and object is:Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a'
+2018-05-03 22:43:18 INFO  HomePage:125 - message is:-WELCOME, PLEASE SIGN IN!
+2018-05-03 22:43:18 INFO  TC003_VerifyLogout:35 - =======TC003_VerifyLogout========
+2018-05-31 10:18:42 INFO  TC003_VerifyLogout:28 - ========TC003_VerifyLogout=======
+2018-05-31 10:18:42 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (8883ae0dd029946ea10c933d9ec67e87)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-05-31 10:18:43 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (8883ae0dd029946ea10c933d9ec67e87)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-05-31 10:18:43 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-05-31 10:18:54 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-05-31 10:18:54 INFO  HomePage:112 - logout is dispalyed and object is:-[[ChromeDriver: chrome on MAC (8883ae0dd029946ea10c933d9ec67e87)] -> xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a]
+2018-05-31 10:19:05 INFO  HomePage:121 - clicked on logout button and object is:Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a'
+2018-05-31 10:19:05 INFO  HomePage:125 - message is:-WELCOME, PLEASE SIGN IN!
+2018-05-31 10:19:05 INFO  TC003_VerifyLogout:35 - =======TC003_VerifyLogout========
+2018-06-12 19:13:14 INFO  TC004_VerifyLoginWithDifferentCred:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-06-12 19:13:14 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (fc1ee073ed0f75dc746503b75c0de5da)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-06-12 19:13:14 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (fc1ee073ed0f75dc746503b75c0de5da)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-06-12 19:13:14 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-06-12 19:13:25 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-06-12 19:13:25 INFO  HomePage:112 - logout is dispalyed and object is:-[[ChromeDriver: chrome on MAC (fc1ee073ed0f75dc746503b75c0de5da)] -> xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a]
+2018-06-12 19:13:36 INFO  HomePage:121 - clicked on logout button and object is:Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a'
+2018-06-12 19:13:36 INFO  TC004_VerifyLoginWithDifferentCred:51 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-06-12 19:13:37 INFO  TC004_VerifyLoginWithDifferentCred:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-06-12 19:13:37 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (fc1ee073ed0f75dc746503b75c0de5da)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-06-12 19:13:37 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (fc1ee073ed0f75dc746503b75c0de5da)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-06-12 19:13:37 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-06-12 19:13:48 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-06-12 19:13:48 INFO  HomePage:112 - logout is dispalyed and object is:-[[ChromeDriver: chrome on MAC (fc1ee073ed0f75dc746503b75c0de5da)] -> xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a]
+2018-06-12 19:14:03 INFO  HomePage:121 - clicked on logout button and object is:Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a'
+2018-06-12 19:14:03 INFO  TC004_VerifyLoginWithDifferentCred:51 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-06-12 19:14:04 INFO  TC004_VerifyLoginWithDifferentCred:42 - ============= Strting VerifyLoginWithDifferentRecords Test===========
+2018-06-12 19:14:04 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (fc1ee073ed0f75dc746503b75c0de5da)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-06-12 19:14:04 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (fc1ee073ed0f75dc746503b75c0de5da)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-06-12 19:14:05 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-06-12 19:14:15 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-06-12 19:14:15 INFO  HomePage:112 - logout is dispalyed and object is:-[[ChromeDriver: chrome on MAC (fc1ee073ed0f75dc746503b75c0de5da)] -> xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a]
+2018-06-12 19:14:26 INFO  HomePage:121 - clicked on logout button and object is:Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a'
+2018-06-12 19:14:26 INFO  TC004_VerifyLoginWithDifferentCred:51 - ============= Finished VerifyLoginWithDifferentRecords Test===========
+2018-06-13 13:06:26 INFO  TC003_VerifyLogout:28 - ========TC003_VerifyLogout=======
+2018-06-13 22:26:23 INFO  TC003_VerifyLogout:28 - ========TC003_VerifyLogout=======
+2018-06-13 22:26:24 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (98aa69006e228e197a0b1e2bb1916622)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-06-13 22:26:24 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (98aa69006e228e197a0b1e2bb1916622)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-06-13 22:26:24 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-06-13 22:26:35 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-06-13 22:26:35 INFO  HomePage:112 - logout is dispalyed and object is:-[[ChromeDriver: chrome on MAC (98aa69006e228e197a0b1e2bb1916622)] -> xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a]
+2018-06-13 22:26:45 INFO  HomePage:121 - clicked on logout button and object is:Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a'
+2018-06-13 22:26:45 INFO  HomePage:125 - message is:-WELCOME, PLEASE SIGN IN!
+2018-06-13 22:26:45 INFO  TC003_VerifyLogout:35 - =======TC003_VerifyLogout========
+2018-06-14 09:48:07 INFO  TC003_VerifyLogout:28 - ========TC003_VerifyLogout=======
+2018-06-14 09:48:07 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (e8dcc488a22de8b226bd71281a6bfeab)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-06-14 09:48:07 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (e8dcc488a22de8b226bd71281a6bfeab)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-06-14 09:48:08 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-06-14 09:48:19 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-06-14 09:48:19 INFO  HomePage:112 - logout is dispalyed and object is:-[[ChromeDriver: chrome on MAC (e8dcc488a22de8b226bd71281a6bfeab)] -> xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a]
+2018-06-14 09:48:29 INFO  HomePage:121 - clicked on logout button and object is:Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a'
+2018-06-14 09:48:29 INFO  HomePage:125 - message is:-WELCOME, PLEASE SIGN IN!
+2018-06-14 09:48:29 INFO  TC003_VerifyLogout:35 - =======TC003_VerifyLogout========
+2018-06-18 22:11:09 INFO  TC003_VerifyLogout:32 - ========TC003_VerifyLogout=======
+2018-06-18 22:11:09 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (ea00a32793afb003579044eca9423ef7)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-06-18 22:11:10 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (ea00a32793afb003579044eca9423ef7)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-06-18 22:11:10 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-06-18 22:11:20 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-06-18 22:11:20 INFO  HomePage:112 - logout is dispalyed and object is:-[[ChromeDriver: chrome on MAC (ea00a32793afb003579044eca9423ef7)] -> xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a]
+2018-06-18 22:11:31 INFO  HomePage:121 - clicked on logout button and object is:Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a'
+2018-06-18 22:11:31 INFO  HomePage:125 - message is:-WELCOME, PLEASE SIGN IN!
+2018-06-18 22:14:40 INFO  TC003_VerifyLogout:32 - ========TC003_VerifyLogout=======
+2018-06-18 22:14:41 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (6ff9d5cb18a8bd481795f478e8e72134)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-06-18 22:14:41 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (6ff9d5cb18a8bd481795f478e8e72134)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-06-18 22:14:41 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-06-18 22:14:52 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-06-18 22:14:52 INFO  HomePage:112 - logout is dispalyed and object is:-[[ChromeDriver: chrome on MAC (6ff9d5cb18a8bd481795f478e8e72134)] -> xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a]
+2018-06-18 22:15:02 INFO  HomePage:121 - clicked on logout button and object is:Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a'
+2018-06-18 22:15:02 INFO  HomePage:125 - message is:-WELCOME, PLEASE SIGN IN!
+2018-06-18 22:15:02 INFO  TC003_VerifyLogout:50 - =======TC003_VerifyLogout========
+2018-06-18 22:53:22 INFO  TC003_VerifyLogout:32 - ========TC003_VerifyLogout=======
+2018-06-18 22:53:27 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (a79224cfd3c0ede49c5d75df91148ecf)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-06-18 22:53:27 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (a79224cfd3c0ede49c5d75df91148ecf)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-06-18 22:53:27 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-06-18 22:53:43 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-06-18 22:53:43 INFO  HomePage:112 - logout is dispalyed and object is:-[[ChromeDriver: chrome on MAC (a79224cfd3c0ede49c5d75df91148ecf)] -> xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a]
+2018-06-18 22:53:59 INFO  HomePage:121 - clicked on logout button and object is:Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a'
+2018-06-18 22:54:00 INFO  HomePage:125 - message is:-WELCOME, PLEASE SIGN IN!
+2018-06-18 22:54:00 INFO  TC003_VerifyLogout:38 - =======TC003_VerifyLogout========
+2018-07-04 15:08:32 INFO  TC003_VerifyLogout:32 - ========TC003_VerifyLogout=======
+2018-07-04 15:08:32 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (0c017e1bcd9aa0849719eed140f6e0d7)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-07-04 15:08:32 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (0c017e1bcd9aa0849719eed140f6e0d7)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-07-04 15:08:32 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-07-04 15:08:44 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-07-04 15:08:44 INFO  HomePage:112 - logout is dispalyed and object is:-[[ChromeDriver: chrome on MAC (0c017e1bcd9aa0849719eed140f6e0d7)] -> xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a]
+2018-07-04 15:09:00 INFO  HomePage:121 - clicked on logout button and object is:Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="aspnetForm"]/div[3]/div[1]/table/tbody/tr/td/div[1]/table/tbody/tr/td[9]/div[2]/table/tbody/tr[2]/td[3]/a'
+2018-07-04 15:09:00 INFO  HomePage:125 - message is:-WELCOME, PLEASE SIGN IN!
+2018-07-04 15:09:00 INFO  TC003_VerifyLogout:38 - =======TC003_VerifyLogout========
+2018-07-04 15:58:12 INFO  TC003_VerifyLogout:32 - ========TC003_VerifyLogout=======
+2018-07-04 18:34:44 INFO  TC001_VerifyLoginWithValidCredentials:27 - ========Starting TC001_VerifyLoginWithInvalidCredentials test
+2018-07-04 18:34:44 INFO  HomePage:72 - cliked on sign in and object is:-[[ChromeDriver: chrome on MAC (31b5d7de43563c17c977e0ee353ee06e)] -> xpath: //*[@id='ctl00_ctrlHeader_LinkButtonSignIn']]
+2018-07-04 18:34:45 INFO  HomePage:74 - entered email address:-omilka@gmail.com and object is [[ChromeDriver: chrome on MAC (31b5d7de43563c17c977e0ee353ee06e)] -> xpath: //*[@id='ctl00_ctrlHeader_LoginForm_UserName']]
+2018-07-04 18:34:45 INFO  HomePage:76 - entered password:-Minimicr0 and object is Minimicr0
+2018-07-04 18:34:56 INFO  HomePage:78 - clicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.id: ctl00_ctrlHeader_LoginForm_LoginButton'
+2018-07-04 18:34:56 INFO  HomePage:85 - message is:-WELCOME TO OUR STORE FOR GREAT SAVINGS ON TEST TOOLS AND CALIBRATION.
+2018-07-04 18:34:56 INFO  TC001_VerifyLoginWithValidCredentials:32 - ========End TC001_VerifyLoginWithInvalidCredentials test
